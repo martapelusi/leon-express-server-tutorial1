@@ -1,0 +1,19 @@
+{
+  "name": "myrapnamesapi",
+  "version": "1.0.0",
+  "description": "Leon project take II",
+  "main": "myServer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Leon",
+    "Express",
+    "Server"
+  ],
+  "author": "Minerva Pellucid",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
